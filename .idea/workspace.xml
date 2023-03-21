@@ -2,12 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fac768b4-011d-48c8-a76c-0bf76b9d90cb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../SSD300/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SSD300/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SSD300/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SSD300/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../catdog/catdog.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIL.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PIL.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algor.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/algor.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/camera.py" beforeDir="false" afterPath="$PROJECT_DIR$/camera.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grad/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/grad/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grad/canny.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grad/grad.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/grad/grad.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grad/grad.py" beforeDir="false" afterPath="$PROJECT_DIR$/grad/grad.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grad/gradient.py" beforeDir="false" afterPath="$PROJECT_DIR$/grad/gradient.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grad/l0smooth/smooth.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/grad/l0smooth/smooth.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplot.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/matplot.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/opencv.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pynput.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pynput.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/realsense_415.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/self-classification/RSdataset.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/self-classification/debug.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/self-classification/resnet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/self-classification/train_class3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/self-classification/train_scratch.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/self-classification/train_transfer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/self-classification/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorboard_test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/tensorboard_test.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +34,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectConfigurationFiles">
     <option name="files">
@@ -36,11 +55,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
